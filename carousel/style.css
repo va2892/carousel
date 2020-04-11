@@ -1,0 +1,28 @@
+.carousel-control-next{
+	position: absolute;
+	left: 940px;
+}
+
+.carousel-indicators{
+	position: absolute;
+	right: 100px;
+}
+
+.container{
+	position: absolute;
+	left: 450px;
+}
+
+.carousel-indicators{
+	position: absolute;
+	left: 100px;
+}
+
+.img-fluid{
+	border: 10px solid white;
+}
+#player{
+	position: absolute;
+	top: 400px;
+	left: 954px;
+}
