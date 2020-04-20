@@ -23,11 +23,16 @@
 }
 #player{
 	position: absolute;
-	top: 400px;
+	top: 455px;
 	left: 954px;
 }
 
 #info{
 	position: absolute;
-	top: 500px;
+	top: 550px;
+}
+
+#nDr1{
+	text-decoration: none;
+	color: white;
 }
